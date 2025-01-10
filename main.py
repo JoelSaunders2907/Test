@@ -5,3 +5,6 @@ print('Hello World')
 print('debug')
 #Micaela makes changes
 print('Hello from MC')
+
+# making a variable
+x = 5
